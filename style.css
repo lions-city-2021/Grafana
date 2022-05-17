@@ -1,0 +1,188 @@
+* {
+    padding: 0;
+    margin: 10;
+    border: 0;
+    bottom: 0;
+}
+
+body {
+    background-color: rgba(34, 34, 34, 1);
+}
+
+.texto-principal {
+    font-family: 'Handlee', cursive;
+    color: #F17A0B;
+    position: center;
+    text-align: center;
+    text-shadow: 0px 0px 7px #F17A0B;
+}
+
+.logo-principal {
+    width: 85px;
+    height: 80px;
+    background-color: transparent;
+}
+
+.retangulo-esquerdo {
+    
+    width: 60px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(68, 68, 68, 1);
+}
+
+.caixa-pesquisa {
+    position: absolute;
+    background-color: #444444;
+    width: 300px;
+    height: 37px;
+    right: 50px;
+    top: 40px;
+    border-radius: 20px;
+}
+
+.caixa-pesquisa-texto {
+    background-color: transparent;
+    position: absolute;
+    right: 105px;
+    top: 0;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    color: white;
+}
+
+.hamburguer {
+    width: 30px;
+    height: 30px;
+    padding: 14px;
+}
+
+.pesquisa {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    padding: 14px;
+    right: 350px;
+    top: 32px;
+}
+
+.home {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding: 14px;
+    top: 240px;
+    left: 0;
+}
+
+.money {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding: 14px;
+    top: 320px;
+    left: 0;
+}
+
+.carrinho {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding: 14px;
+    top: 400px;
+    left: 0;
+}
+
+.grafico {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding: 14px;
+    top: 480px;
+    left: 0;
+}
+
+.usuarios {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding: 14px;
+    top: 560px;
+    left: 0;
+}
+
+.engrenagem {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding: 14px;
+    bottom: 0;
+    left: 0;
+}
+
+.info-texto1 {
+    position: absolute;
+    width: 492px;
+    height: 47px;
+    background-color: #6A6A6A;
+    left: 0px;
+    top: 0;
+    border-radius: 15px 15px 0 0;
+}
+
+.info-01 {
+    position: absolute;
+    width: 492px;
+    height: 487px;
+    background-color: #434343;
+    left: 290px;
+    top: 240px;
+    border-radius: 15px 15px 0 0;
+}
+
+.info-texto2 {
+    position: absolute;
+    width: 492px;
+    height: 47px;
+    background-color: #6A6A6A;
+    left: 0px;
+    top: 0;
+    border-radius: 15px 15px 0 0;
+}
+
+
+.info-02{
+    position: absolute;
+    width: 492px;
+    height: 487px;
+    background-color: #434343;
+    left: 880px;
+    top: 240px;
+    border-radius: 15px 15px 0 0;
+}
+
+.info-03 {
+    position: absolute;
+    width: 317px;
+    height: 125px;
+    background-color: #444444;
+    right: 80px;
+    top: 240px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #f17a0b91;
+}
+
+.info-04 {
+    position: absolute;
+    width: 317px;
+    height: 125px;
+    background-color: #444444;
+    right: 80px;
+    top: 440px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #f17a0b91;
+}
